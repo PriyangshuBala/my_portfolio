@@ -236,7 +236,7 @@ export default function Home() {
         <div className="section-index">01 / STORY</div>
         <div className="story-grid">
           <div className="story-heading" data-reveal>
-            <p className="eyebrow">FROM SANTRAGACHI TO SYSTEMS THINKING</p>
+            <p className="eyebrow">FROM ANALYSIS TO SYSTEMS THINKING</p>
             <h2>Curiosity became a discipline. Data became the language.</h2>
           </div>
           <div className="story-copy" data-reveal>
@@ -293,6 +293,7 @@ export default function Home() {
             );
           })}
         </div>
+        <div className="signal-pill">15+ Projects Covering Various Types of Real World Problems</div>
       </section>
 
       <section className="capability-section section-shell">
