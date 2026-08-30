@@ -213,7 +213,8 @@ export default function Home() {
             <span className="hero-emphasis">decisions people can act on.</span>
           </h1>
           <p className="hero-intro" data-reveal>
-            I&apos;m <strong>Priyangshu Bala</strong>, an IIT Madras Data Science candidate with experience across business analysis, LLM evaluation and applied machine learning. I translate ambiguous business problems into rigorous analysis, practical products and clear, decision-ready recommendations.
+            I&apos;m <strong>Priyangshu Bala</strong>an IIT Madras Data Science graduate and multidisciplinary analyst specializing in business analytics, product thinking, applied machine learning and AI evaluation—turning complex data into clear, actionable decisions.
+
           </p>
           <div className="hero-actions" data-reveal>
             <a href="#work" className="button button-primary">Explore my work <ArrowDown size={17} /></a>
