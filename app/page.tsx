@@ -213,7 +213,7 @@ export default function Home() {
             <span className="hero-emphasis">decisions people can act on.</span>
           </h1>
           <p className="hero-intro" data-reveal>
-            I&apos;m <strong>Priyangshu Bala</strong>an IIT Madras Data Science graduate and multidisciplinary analyst specializing in business analytics, product thinking, applied machine learning and AI evaluation—turning complex data into clear, actionable decisions.
+            I&apos;m <strong>Priyangshu Bala</strong>, an IIT Madras Data Science graduate and multidisciplinary analyst specializing in business analytics, product thinking, applied machine learning and AI evaluation—turning complex data into clear, actionable decisions.
 
           </p>
           <div className="hero-actions" data-reveal>
